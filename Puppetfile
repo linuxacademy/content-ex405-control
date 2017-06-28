@@ -1,6 +1,6 @@
 forge "http://forge.puppetlabs.com"
 
-mod "puppetlabs-apache", '1.11.0'
+#mod "puppetlabs-apache", '1.11.0'
 mod "puppetlabs-stdlib", '4.17.1'
 mod "puppetlabs-concat", '4.0.1'
 mod "garethr-docker", '5.3.0'
