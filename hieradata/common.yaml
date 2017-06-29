@@ -1,2 +1,5 @@
 ---
-message: "This node is using common data"
+apache_port: 80
+apache_docroot: '/var/www'
+apache_docroot_owner: root
+apache_docroot_group: root
